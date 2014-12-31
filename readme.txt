@@ -33,4 +33,4 @@ No Comments plugin totally get's rid of comments. Just activate the plugin and i
 * Compatible with wordpress 4.0.1
 
 = 1.0.3 =
-* Compatible with wordpress 4.1
+* Compatible with wordpress 4.1 - Tested
