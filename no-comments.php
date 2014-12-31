@@ -5,13 +5,15 @@
     Plugin URI: http://www.stevenfernandez.co.uk/wordpress-plugins/
     Description: `No Comments` plugin totally gets rid of comments. Just activate the plugin and it's all gone!
     Author: Steven Fernandez
-    Version: 1.0.1
+    Version: 1.0.3
     Author URI: http://www.stevenfernandez.co.uk
 
     === RELEASE NOTES ===
     20-04-2014 - v1.0 - first version
 
     07-09-2014 - v1.0.1 - Compatible with wordpress 4.0 
+
+    31-12-2014 - v1.0.3 - Compatible with wordpress 4.0 
     */
 
 if (!class_exists ('no_comments')) :
