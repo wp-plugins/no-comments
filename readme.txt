@@ -1,7 +1,7 @@
 === No Comments ===
 
 Plugin Name: No Comments
-Contributors: stevenfernandez / http://futurevisiontechnology.com/
+Contributors: stevenfernandez
 Donate link: http://www.futurevisiontechnology.com
 Tags: no comments, hide comments, disable comments
 Author: Steven Fernandez
@@ -37,3 +37,6 @@ No Comments plugin totally get's rid of comments. Just activate the plugin and i
 
 = 1.0.4 =
 * Updated structure
+
+= 1.0.5 =
+* Bug Fix
