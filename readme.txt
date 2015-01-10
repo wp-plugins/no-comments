@@ -40,3 +40,6 @@ No Comments plugin totally get's rid of comments. Just activate the plugin and i
 
 = 1.0.5 =
 * Bug Fix
+
+= 1.0.6 =
+* Final Updated Fix

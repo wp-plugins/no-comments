@@ -5,7 +5,7 @@
     Plugin URI: http://www.futurevisiontechnology.com/
     Description: `No Comments` plugin totally gets rid of comments. Just activate the plugin and it's all gone!
     Author: Steven Fernandez
-    Version: 1.0.4
+    Version: 1.0.6
     Author URI: http://www.futurevisiontechnology.com/
 
     === RELEASE NOTES ===
@@ -18,6 +18,8 @@
     10-01-2015 - v1.0.4 - Updated Structure
 
     10-01-2015 - v1.0.5 - Bug Fix
+
+    10-01-2015 - v1.0.6 - Final Updated Fix
 
 
     */
