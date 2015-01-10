@@ -1,10 +1,10 @@
 === No Comments ===
 
 Plugin Name: No Comments
-Contributors: steven fernandez / http://futurevisiontechnology.com/
+Contributors: stevenfernandez / http://futurevisiontechnology.com/
 Donate link: http://www.futurevisiontechnology.com
 Tags: no comments, hide comments, disable comments
-Author: Steven Fernandez - http://www.futurevisiontechnology.com
+Author: Steven Fernandez
 Requires at least: 3.5
 Tested up to: 4.1
 Stable tag: 1.0.3
