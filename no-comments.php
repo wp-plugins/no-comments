@@ -2,18 +2,22 @@
 
     /*
     Plugin Name: No Comments
-    Plugin URI: http://www.stevenfernandez.co.uk/wordpress-plugins/
+    Plugin URI: http://www.futurevisiontechnology.com/
     Description: `No Comments` plugin totally gets rid of comments. Just activate the plugin and it's all gone!
-    Author: Steven Fernandez
-    Version: 1.0.3
-    Author URI: http://www.stevenfernandez.co.uk
+    Author: Steven Fernandez - www.futurevisiontechnology.com/
+    Version: 1.0.4
+    Author URI: http://www.futurevisiontechnology.com/
 
     === RELEASE NOTES ===
     20-04-2014 - v1.0 - first version
 
     07-09-2014 - v1.0.1 - Compatible with wordpress 4.0 
 
-    31-12-2014 - v1.0.3 - Compatible with wordpress 4.0 
+    31-12-2014 - v1.0.3 - Compatible with wordpress 4.1 
+
+    10-01-2015 - v1.0.4 - Updated Structure
+
+
     */
 
 if (!class_exists ('no_comments')) :
@@ -136,6 +140,8 @@ new no_comments;
 
 endif;
 
+
+include('includes/functions.php');
 
 
 function hide_comments_activation_hook() {

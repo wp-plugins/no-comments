@@ -1,10 +1,10 @@
 === No Comments ===
 
 Plugin Name: No Comments
-Contributors: stevenfernandez
-Donate link: http://stevenfernandez.co.uk/donate
+Contributors: steven fernandez / http://futurevisiontechnology.com/
+Donate link: http://www.futurevisiontechnology.com
 Tags: no comments, hide comments, disable comments
-Author: Steven Fernandez
+Author: Steven Fernandez - http://www.futurevisiontechnology.com
 Requires at least: 3.5
 Tested up to: 4.1
 Stable tag: 1.0.3
@@ -34,3 +34,6 @@ No Comments plugin totally get's rid of comments. Just activate the plugin and i
 
 = 1.0.3 =
 * Compatible with wordpress 4.1 - Tested
+
+= 1.0.4 =
+* Updated structure
